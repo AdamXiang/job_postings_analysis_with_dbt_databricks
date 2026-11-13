@@ -1,0 +1,9 @@
+# name of the dbt project
+name: analytics
+
+# profile name in dbt_profiles.yml that we set up already
+profile: databricks
+
+clean-targets:
+- "target"
+- "dbt_packages"
