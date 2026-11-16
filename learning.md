@@ -57,3 +57,7 @@ dbt init --project-name analytics --profile databricks
 ```bash
 dbt show --inline "SELECT COUNT(*) FROM raw.jobs.raw_job_postings"
 ```
+
+```bash
+dbt compile --inline "SELECT {{ slugify('Paid Time Off') }}"
+```
