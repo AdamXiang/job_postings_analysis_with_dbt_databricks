@@ -1,1 +1,0 @@
-DROP SCHEMA IF EXISTS dev.default_staging CASCADE;
