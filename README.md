@@ -78,7 +78,7 @@ The marts keep each job's **latest** scrape — the snapshot table keeps **every
 
 Structure, tests, and column descriptions were written along the way — the docs site is a rendering of work already done:
 
-**→ [lukebarousse.github.io/dbt_Analytics_Engineering_Course/project2/](https://lukebarousse.github.io/dbt_Analytics_Engineering_Course/project2/)**
+**→ [AdamXiang.github.io/job_postings_analysis_with_dbt_databricks](https://adamxiang.github.io/job_postings_analysis_with_dbt_databricks/)**
 
 The site shows:
 
